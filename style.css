@@ -16,3 +16,16 @@ h2{
     color: blueviolet;
     font-weight: 600;
 }
+
+.video{
+    max-width: 93%;
+    height: auto;
+}
+
+.d-block{
+    max-width: 100%;
+}
+
+.t{
+    max-width: 100%;
+}
